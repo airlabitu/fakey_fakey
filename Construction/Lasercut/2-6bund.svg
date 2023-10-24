@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 842 1066" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-283.746,-1547.8)">
+        <g id="Bund">
+            <g id="CORNER" transform="matrix(1,0,0,1,168.899,-248.703)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER1" serif:id="CORNER" transform="matrix(1,0,0,1,889.366,-257.703)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER2" serif:id="CORNER" transform="matrix(1,0,0,1,889.366,695.833)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER3" serif:id="CORNER" transform="matrix(1,0,0,1,169.899,695.833)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER4" serif:id="CORNER" transform="matrix(1,0,0,1,239.334,455.276)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER5" serif:id="CORNER" transform="matrix(1,0,0,1,754.294,-141.18)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER6" serif:id="CORNER" transform="matrix(1,0,0,1,809.709,472.601)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="CORNER7" serif:id="CORNER" transform="matrix(1,0,0,1,423.585,-141.18)">
+                <circle cx="174.677" cy="1856.94" r="18.325" style="fill:none;stroke:rgb(0,3,255);stroke-width:2.71px;"/>
+            </g>
+            <g id="Body" transform="matrix(0.848921,0,0,0.827372,-69.8296,1284.05)">
+                <path d="M1405.92,367.954C1405.92,341.72 1385.16,320.421 1359.59,320.421L464.423,320.421C438.854,320.421 418.096,341.72 418.096,367.954L418.096,1557.67C418.096,1583.9 438.854,1605.2 464.423,1605.2L1359.59,1605.2C1385.16,1605.2 1405.92,1583.9 1405.92,1557.67L1405.92,367.954Z" style="fill:none;stroke:rgb(0,255,12);stroke-width:3.23px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

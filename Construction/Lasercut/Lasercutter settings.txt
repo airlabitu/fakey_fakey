@@ -1,0 +1,12 @@
+The top and bottom part is cut in 3mm clear acryllic.
+Leave film on both sides for a clean finish - remember to remove leftover film “inside” letters as well as cleaning the pieces with dish soap before assembling.
+
+
+
+
+Color:		Speed:	Power:	Interval:
+
+Black (Fill) 	400	30	0.050
+Pink (Fill)	400	15	0.050
+Blue (Line)	12	100	NA
+Green (Line)	12	100	NA

@@ -1,0 +1,44 @@
+Parts needed:
+
+Amount	Title			Details
+
+1 x 	Top piece		(See lasercut folder)
+2 x	Bottom piece		- || -
+1 x	Arduino Leonardo
+1 x 	Proto board
+2 x 	Terminal		Row of six, Regular with screws
+2 x 	Ground terminal		Black, banana-type
+12x	Resistors		22mΩ
+12x	Tyller			White RS
+8 x	Maschine Screws		M3 10mm
+4 x	Maschine Screws		M3 20mm
+3 x	Maschine Screws		M3 15mm
+11x	Nuts			M3
+4 x	Standoffs		M3 50mm
+
+
+
+
+
+Assembly-directions:
+
+Procedure:
+Step 1:
+Solder 12resistors and 12wires to Protoshield.
+(Pins a0, a1, a2, a3, a4, a5, 4, 6, 8, 9, 10, 12), all connected to 5v
+Solder 2*wires to ground
+
+Step 2:
+Mount prototboard with arduino on backplate, feed 12 wires through frontplate, and assemble the construction with standoffs.
+
+Step 3:
+cut and strip wires 15mm from topplate. Mount with "tyller" (white).
+
+Step 4:
+Mount groundterminals in frontplate, strip groundwires and solder to terminals.
+
+Step 5:
+Secure one side of the wires in 6pcs screwterminals. Mount the terminal to front plate, raised with an additional hexnut. Repeat on the opposite.
+
+Step 6:
+Upload code from github, check functionality. Add to equipment library
